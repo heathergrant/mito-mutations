@@ -8,3 +8,4 @@ Pipeline:
 https://github.com/broadinstitute/gatk/blob/master/scripts/mitochondria_m2_wdl/MitochondriaPipeline.wdl
 chrM_refs/ downloaded from:  
 https://console.cloud.google.com/storage/browser/gcp-public-data--broad-references/hg38/v0/chrM
+![pipeline](https://github.com/heathergrant/mito-mutations/assets/29428317/803fa331-2049-46da-9f06-140cb8e12f2f)
